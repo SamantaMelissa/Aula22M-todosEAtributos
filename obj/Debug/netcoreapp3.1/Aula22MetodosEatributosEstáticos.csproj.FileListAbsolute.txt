@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.exe
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.dll
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.pdb
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.dll
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.pdb
+C:\Users\saman\OneDrive\Documentos\Aula22MetodosEatributosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEatributosEstáticos.genruntimeconfig.cache
